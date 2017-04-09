@@ -7,6 +7,8 @@ import android.widget.TextView;
 import com.example.jazielsma.naivedatepicker.R;
 
 /**
+ * //todo add javadoc and clean code
+ * //todo convert the class into a singleton or interface
  * Created by eddy.velazquez@wocom-labs.com on 4/8/17.
  */
 

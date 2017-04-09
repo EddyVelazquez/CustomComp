@@ -10,6 +10,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 /**
+ * //todo add javadoc and clean code
  * Created by eddy.velazquez@wocom-labs.com on 4/8/17.
  */
 

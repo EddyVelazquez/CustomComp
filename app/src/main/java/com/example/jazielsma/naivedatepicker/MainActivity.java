@@ -8,6 +8,7 @@ import android.widget.TextView;
 
 import com.example.jazielsma.naivedatepicker.utils.PoorDateCalculator;
 
+//todo add javadoc and clean code
 
 public class MainActivity extends AppCompatActivity {
 	
